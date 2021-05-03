@@ -26,6 +26,9 @@ namespace AboutMe
             }
             FactsAboutMe fact = (FactsAboutMe)e.SelectedItem;
             DisplayAlert("The Fact", fact.TheFact, "Ok");
+           
+            
+           
         }
     }
 }

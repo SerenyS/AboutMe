@@ -132,4 +132,19 @@
       <Name>AboutMe</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\camera.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\cheesecake.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\mexico.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\olive.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\age.jpg" />
+  </ItemGroup>
 </Project>

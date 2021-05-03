@@ -21,7 +21,10 @@
                                 <Label Text="{Binding ShortFact}"
                                    FontAttributes="Bold"
                                    FontSize="Medium" />
-                            </StackLayout>
+                                
+                            <Image x:Name="imageDisplay" Source="{Binding imageName}" Aspect="AspectFit"  />
+
+                        </StackLayout>
                         </ViewCell>
                     </DataTemplate>
                 </ListView.ItemTemplate>
